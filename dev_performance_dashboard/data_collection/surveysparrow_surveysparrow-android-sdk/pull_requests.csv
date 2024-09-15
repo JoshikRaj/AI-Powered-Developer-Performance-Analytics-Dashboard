@@ -1,0 +1,21 @@
+id,title,created_at,closed_at,state
+2034089635,close-button-toggle-feature,2024-08-23 12:26:18+00:00,2024-08-23 12:26:29+00:00,closed
+2034054370,Close button toggle feature,2024-08-23 12:04:02+00:00,2024-08-23 12:09:27+00:00,closed
+1985234590,File upload support,2024-07-24 11:30:53+00:00,2024-07-24 12:32:23+00:00,closed
+1966590201,Spot checks,2024-07-12 12:55:49+00:00,2024-07-23 06:50:19+00:00,closed
+1948725220,Dynamic Default Language on Load Supported,2024-07-02 06:48:59+00:00,2024-07-02 07:01:25+00:00,closed
+1842219079,Version Update,2024-04-26 06:43:07+00:00,2024-04-26 06:43:57+00:00,closed
+1835999257,Updated ApiCall Task Callback Responce,2024-04-23 06:49:48+00:00,,open
+1779417937,SSE-27680 Fixed,2024-03-19 09:27:59+00:00,2024-03-26 10:09:25+00:00,closed
+1673955022,Fix sse 24883,2024-01-11 08:46:24+00:00,,open
+1661413543, Replaced Semaphore with CompletableFuture,2024-01-02 05:06:35+00:00,2024-01-03 14:25:48+00:00,closed
+1578812190,validate survey responses,2023-10-30 10:59:22+00:00,2023-10-30 11:03:21+00:00,closed
+1560179139,upgraded sdk versions,2023-10-17 09:35:05+00:00,2023-10-17 09:52:22+00:00,closed
+1520718807,Survey throttling,2023-09-19 06:34:44+00:00,2023-09-29 09:59:38+00:00,closed
+1422294495,survey-validation,2023-07-06 06:08:18+00:00,2023-07-10 09:07:51+00:00,closed
+1008275256,reloading fragment when the activity is destroyed,2022-07-26 09:28:44+00:00,2022-07-26 09:38:13+00:00,closed
+1007222454,Update README.md,2022-07-25 12:05:25+00:00,2022-07-25 12:09:42+00:00,closed
+964463195,Issue Fix - SDK handle orientation change after onLoad,2022-06-10 19:23:27+00:00,2022-06-10 19:25:30+00:00,closed
+623529509,Update - README and Examples to the Jitpack implementation,2021-04-26 17:18:39+00:00,2021-04-26 17:18:48+00:00,closed
+621371825,Fix issue - Unable to instantiate fragment - public constructor,2021-04-22 18:13:22+00:00,2021-04-22 18:18:47+00:00,closed
+526359338,Add option to toggle thank you redirect outside the webview,2020-11-24 10:03:43+00:00,2020-11-25 09:12:25+00:00,closed

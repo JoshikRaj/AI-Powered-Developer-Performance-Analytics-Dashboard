@@ -1,6 +1,7 @@
 import streamlit as st
 from github import Github
 import pandas as pd
+import os
 
 # Initialize GitHub authentication with your personal access token
 g = Github("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")
@@ -59,6 +60,20 @@ def fetch_repo_data(repo_url):
 
     return commits_df, pr_df, issues_df
 
+# Function to save data to CSV
+def save_to_csv(commits_df, pr_df, issues_df, repo_name):
+    # Create a folder for the repository data if it doesn't exist
+    save_path = f"./{repo_name}"
+    if not os.path.exists(save_path):
+        os.makedirs(save_path)
+
+    # Save the dataframes as CSV files
+    commits_df.to_csv(f"{save_path}/commits.csv", index=False)
+    pr_df.to_csv(f"{save_path}/pull_requests.csv", index=False)
+    issues_df.to_csv(f"{save_path}/issues.csv", index=False)
+
+    st.success(f"Data has been saved to folder: {save_path}")
+
 # Streamlit UI
 st.title("AI-Powered Developer Performance Analytics Dashboard")
 
@@ -81,5 +96,9 @@ if repo_url:
 
         st.subheader("Issues Data")
         st.dataframe(issues_df)
+
+        # Save the data to CSV
+        repo_name = repo_url.split("/")[-2] + "_" + repo_url.split("/")[-1]
+        save_to_csv(commits_df, pr_df, issues_df, repo_name)
     else:
         st.error("Failed to fetch data. Please check the repository URL or token.")

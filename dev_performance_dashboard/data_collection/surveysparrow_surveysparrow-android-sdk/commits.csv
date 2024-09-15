@@ -1,0 +1,177 @@
+sha,author,date,message
+7004cf335332b3bf1a0e067c9d23ef093c61cc33,Sivanesh,2024-07-23 06:50:19+00:00,"Merge pull request #21 from surveysparrow/SpotChecks
+
+Spot checks"
+13e228c18461e65f999ebce57f39f95c4bb5d2c6,Gokulkrishna-Raju,2024-07-19 07:37:46+00:00,SparrowLang Feature Supported
+5f65c9f1c8a684d0ee4a33db2b5708049c25c09b,Gokulkrishna-Raju,2024-07-12 13:30:31+00:00,ReadMe Fix
+f244e0ea8e9262ba8fd5565e0631f0d5eda35924,Gokulkrishna-Raju,2024-07-12 13:29:48+00:00,ReadMe Fix
+cb0060712b3a6dea24673fbbcac9b5ed318305e6,Gokulkrishna-Raju,2024-07-12 13:12:06+00:00,FIx
+c6c12d5636037a316d8a48c7185b647a67c38eaf,Gokulkrishna-Raju,2024-07-12 13:11:21+00:00,FIx
+0fcb885b16098872b5eba6646de727ce218a0490,Gokulkrishna-Raju,2024-07-12 13:06:57+00:00,ReadMe Added
+3cd7dcc866bc44a58a00df24be43fda7a6de4496,Gokulkrishna-Raju,2024-07-12 12:54:50+00:00,Merge branch 'master' into spotchecks
+2992e84b11737ca83dbcf3983f08f9eb6926e923,Gokulkrishna-Raju,2024-07-08 13:01:54+00:00,Ui Fix
+67fbff1f483f7100ac17eed27f3f50c643a62bfa,Gokulkrishna-Raju,2024-07-08 07:16:03+00:00,UI Fix
+306c2313f236585d1f7b7562e6cf3eb07043677e,Gokulkrishna-Raju,2024-07-05 09:48:46+00:00,UI Fix
+b4c966aae55fca39f0d86f50a989d60e908bb859,Gokulkrishna-Raju,2024-07-02 10:13:53+00:00,"SSE-31037, SSE-30285 Fix"
+0e3ab57d3101f3a2f07f500ac1341ec334a7829b,Sivanesh,2024-07-02 07:01:25+00:00,"Merge pull request #20 from surveysparrow/SSE-30947-Enhancement
+
+Dynamic Default Language on Load Supported"
+641100dfc87c859e50e33db4bc2ff5866fe9ae6d,Gokulkrishna-Raju,2024-07-01 12:55:03+00:00,Library Revamp
+27138bf6241dff6ba3cd35287b8537a54a0cdd87,Gokulkrishna-Raju,2024-07-01 11:55:04+00:00,JitPack Installation Version
+57c79edcdeef73e09160189249ada1320a9509b3,Gokulkrishna-Raju,2024-07-01 11:53:47+00:00,Gradle Revamp
+1a83869b5970aeb54b6c4b9a1833a2de15edd139,Gokulkrishna-Raju,2024-07-01 11:42:25+00:00,Prepare for 0.5.2-beta.3 Release
+7064bb7d254e896bdf79f6372056c8eb04c7a117,Gokulkrishna-Raju,2024-07-01 11:19:02+00:00,Close Button Enhancement
+cc026ca77987893c9eb48933b5a7ce3ce1d70b58,Gokulkrishna-Raju,2024-06-28 06:49:34+00:00,Example Fix
+d11d967a2729d81ea579fd31c4c7d41f5296e0bf,Gokulkrishna-Raju,2024-06-28 06:46:34+00:00,Api Responce Reason added
+1ddd29fe47f9795890ee1645a28decaefba60fb7,Gokulkrishna-Raju,2024-06-27 14:04:00+00:00,SSE-30748-Fix
+5bd91d437f3a5f2c81b3ae7da286bc932555e862,Gokulkrishna-Raju,2024-06-21 03:05:17+00:00,Deployment issue Fix
+e95eeb931a8e69a56b97a7a73aedda73b1277159,Gokulkrishna-Raju,2024-06-20 05:10:49+00:00,JavaVersion Fix
+ac7b47d2db86c505d4a1a19dd7100f1eb52fe237,Gokulkrishna-Raju,2024-06-20 04:58:41+00:00,Prepare 1.0.0-beta.4 for release
+4dcafff5da64f6a34e81bfc1d84a815a5cf28048,Gokulkrishna-Raju,2024-06-19 05:06:38+00:00,Prepare for 1.0.0-beta.3 Release
+bb1e671dcabc229d3c556be98ed2261f374e1f78,Gokulkrishna-Raju,2024-06-19 04:58:35+00:00,Prepare for 1.0.0-beta.2 Release
+6147fb64a3439480990d0f52fdc0317fe0b67135,Gokulkrishna-Raju,2024-06-18 10:55:27+00:00,UserDetails Update
+884d9fe6526e73c2846bcd96145a18537b86ab24,Gokulkrishna-Raju,2024-06-18 07:12:44+00:00,Anonymous Submission Support
+efcc59883c614a901ef4d9434896731fef68611d,Gokulkrishna-Raju,2024-06-12 05:56:28+00:00,Close Button Enhancement
+49f21040a12165d6937a8b8a93e213f6eaa100f7,Gokulkrishna-Raju,2024-06-07 07:18:37+00:00,TraceId & TriggerToken Added
+c3356ab2b3792ea58d4cc6a0a3c78009e02ccab2,Gokulkrishna-Raju,2024-05-15 12:06:10+00:00,Bug Fix
+a35614076507a33efb81f38d7bb21f56e358f584,Gokulkrishna-Raju,2024-05-15 08:02:21+00:00,Maven Configure
+9ef67d0fa65634254d0927c9c3d811242fa014ba,Gokulkrishna-Raju,2024-05-15 07:10:23+00:00,SpotChecks && Java to Kotlin
+49e512f3a809b9f49dfc13da9389c39cf6e363f7,Sivanesh,2024-04-26 06:43:57+00:00,"Merge pull request #19 from surveysparrow/version-update
+
+Version Update"
+8f5a26023ec922e4260031fed5469c3c4fde8b37,Gokulkrishna-Raju,2024-04-26 06:42:36+00:00,Version Update
+cba794433935ab5fb7473349b55cc72d96e355c2,Sivanesh,2024-03-26 10:09:25+00:00,"Merge pull request #17 from surveysparrow/SSE-27680-Fix
+
+Added language support"
+35182d0cc5d120fcf7c5a143a2520ab07b847fe3,GOKULKRISHNA-R,2024-03-26 06:03:32+00:00,Fix
+af9c299e5f9343ccd7aeab9b55e30ab51f1ba73c,GOKULKRISHNA-R,2024-03-25 11:27:54+00:00,Language Email Sync
+e00ba598a2a950e253e8f816766bea56cf3292ef,GOKULKRISHNA-R,2024-03-20 07:20:08+00:00,String to HashMap
+420093a74d3b49a0ec9c25e68d35ccc8a0e2391a,GOKULKRISHNA-R,2024-03-20 07:17:44+00:00,String to HashMap
+3c1ba8569aba409debefb4b5c53015616d642bc3,GOKULKRISHNA-R,2024-03-19 09:27:33+00:00,SSE-27680 Fixed
+aba92c8937acaa3cf14a89de78c607c13c28fcc7,Sivanesh,2024-01-03 14:25:47+00:00,"Merge pull request #15 from surveysparrow/apicall-enhancement
+
+ Replaced Semaphore with CompletableFuture"
+96d5e1f3b909c0733285df79dce83da1a0b8ace1,GOKULKRISHNA-R,2024-01-03 05:50:31+00:00,v0.4.7
+e108adb7e77b9eb39e1dc80e91b35331872409ee,GOKULKRISHNA-R,2023-12-27 07:57:14+00:00, Replaced Semaphore with CompletableFuture
+ce582d46a38ed9394a6b21c8f7381ba4e7fabc26,Sivanesh,2023-10-30 11:03:21+00:00,"Merge pull request #13 from surveysparrow/validate-survey-responses
+
+validate survey responses"
+d5a3f61760356d6cd7105c4f0d7be49bd4e0f6ab,Sivanesh,2023-10-30 10:58:42+00:00,validate survey responses
+20ea13e9b32f43315b95e991b9b02145931bbb68,Sivanesh,2023-10-17 09:52:21+00:00,"Merge pull request #12 from surveysparrow/upgraded-sdk-versions
+
+upgraded sdk versions"
+cd0a1d99bb06c3f2178cfa317a0e2f8052e2e713,GOKULKRISHNA-R,2023-10-17 09:25:37+00:00,upgraded sdk versions
+f10cbbdfc56133f512527e84d2132e597111b5cf,Sivanesh,2023-09-29 09:59:38+00:00,"Survey throttling (#11)
+
+* surve-validation
+
+* old function support
+
+* Update README.md
+
+* survey-throttling
+
+* added wrap content
+
+* updated version code"
+7a1cc8c4892fe20e8b4034bf68d0c50264082c32,Sivanesh,2023-07-10 09:07:51+00:00,survey-validation (#10)
+ca92ee490c0c68ba8a8935184d56782d591b19c8,hemanath-ss,2022-07-26 09:38:12+00:00,"Merge pull request #6 from surveysparrow/handling-activity-destroy
+
+reloading fragment when the activity is destroyed"
+c4d44b60b142944f325a96b548d0874d9e5abfd8,sachin-kumar56,2022-07-26 09:33:56+00:00,read me changes
+b3a4ebc7348bfc779b57c9309f454dc00ab671e2,sachin-kumar56,2022-07-26 07:47:24+00:00,reloading fragment when the activity is destroyed
+f04d5e59e4c50d59a489da89686695bb3cd0c0f2,hemanath-ss,2022-07-25 12:09:42+00:00,"Merge pull request #5 from surveysparrow/update-readme
+
+Update README.md"
+716de6adc6746596a1551b428881df747f6e2581,hemanath-ss,2022-07-25 12:04:53+00:00,Update README.md
+c55c4569cd8603a8ab24bd6d1ab1ee64959bf226,sachin-kumar56,2022-06-10 19:25:29+00:00,"Merge pull request #4 from surveysparrow/handling-fragment-layoutChange
+
+Issue Fix - SDK handle orientation change after onLoad"
+218f2e2d40ebe89ac45c5b9a000aeb728d23bf2a,sachin-kumar56,2022-06-10 19:22:37+00:00,minor changes
+37b2f86e28a1d03d5d575e395b8cfebcdeda4f40,sachin-kumar56,2022-06-10 19:15:50+00:00,minor change
+711bf2a6e00c62688f95579ef5613f6cc0e0d7b6,sachin-kumar56,2022-06-10 18:56:00+00:00,retaining fragment when orientation changes
+93835b623bfe632265a877659c0df986fba43575,hemanath-ss,2021-04-26 17:18:48+00:00,"Merge pull request #3 from surveysparrow/fixes/survey-fragment
+
+Update - README and Examples to the Jitpack implementation"
+aa008066fb3a6341e3067fed58b0be45e8b409ec,hemanath-ss,2021-04-26 17:15:42+00:00,Update README.md
+d8b540ceac7cbd496167f4ed137e21d2235c1acf,Hemanath,2021-04-26 17:12:03+00:00,Update readme and example to jitpack implementation
+eec74ef998ba61bfe3529d89881a59d97698e7e8,hemanath-ss,2021-04-22 18:18:47+00:00,"Merge pull request #2 from surveysparrow/fixes/survey-fragment
+
+Fix - Unable to instantiate fragment run time exception"
+bf3bad6efe02ac409b57086c4f8132f4ef3078a4,Hemanath,2021-04-22 18:03:57+00:00,Fix log tag for runtime exception
+8bd35ef56940546f81091fc76e3c0fecf9332eb0,Hemanath,2021-04-22 18:02:52+00:00,Fix log tag for runtime exception
+7655adea1ea9b08aa0d86174e6980a35f7aa720d,Hemanath,2021-04-22 17:59:35+00:00,Add missing import for Log
+bc687c93c14d636986f0029ddb6fba375c006714,Hemanath,2021-04-22 17:57:30+00:00,Update readme and example to latest version
+bf419176dc9b7955254468754bb44355aac4829f,Hemanath,2021-04-22 17:55:26+00:00,"Fix Unable to instantiate fragment issue, handle run time exception on Survey activity onCreate"
+06e00e7f47493841a7d17ecc0ee09941b17c6bd9,Hemanath,2020-11-25 09:33:54+00:00,Updated version number in README
+9bb3c2b249151213feee48033623add1db3d0647,Hemanath,2020-11-25 09:22:13+00:00,Updated version number
+9c5b89e6299ea3469aef79eb86d3beddcd9998eb,Ajay Sivan,2020-11-25 09:12:24+00:00,"Merge pull request #1 from surveysparrow/feature/toggle-thankyou-redirect
+
+Add option to toggle thank you redirect outside the webview"
+2bbf8d4af744f6b0194e44bbf3bddf12857e9ad0,Hemanath,2020-11-24 09:58:39+00:00,Add option to toggle thank you redirect outside the webview and update README
+5f03a96445d83ccc55b4ebbe1da1e1e79a5cbefe,Ajay Sivan,2020-10-30 15:10:05+00:00,"allowBackup is not mandatory"""
+59e78221857cc5761208c526ea85dac84c92567f,Ajay Sivan,2020-08-07 11:11:48+00:00,Sample projects updated
+76fece280c8e5517b731af098075431a63cee80d,Ajay Sivan,2020-08-07 11:02:21+00:00,Version 0.2.0
+c4d56688dec66706880fd2ed7e65cac7321bc822,Ajay Sivan,2020-08-07 10:45:28+00:00,"Merged in feature/nps (pull request #1)
+
+Feature/nps
+
+* NPS survey
+
+* Doc updates"
+a2ec2150a38bf572fa204e12cbee28a41ea496dc,Ajay Sivan,2020-06-24 03:43:23+00:00,Readme updated
+9c230831071f90f5f994ec9f643fdaed6001e148,Ajay Sivan,2020-06-24 03:21:33+00:00,SDK version updated to 0.1.3
+06cf6b2a326f5e10aed5b6764519453147593e87,Ajay Sivan,2020-06-24 03:16:41+00:00,Security fix
+f8fa3c5eaa0d17310fdba9d0f9bfc53984062c3e,Ajay Sivan,2020-06-19 11:08:01+00:00,License file added
+29bfd202d46964f70aeea23748d2191f65c82f6a,Ajay Sivan,2020-06-19 07:29:16+00:00,Readme fix
+6408124063bd16dc921bd253fcdcdadad22ca387,Ajay Sivan,2020-06-19 07:23:25+00:00,Screenshot fix
+190ab097c0baae68006a4f9a57b1894d6eeca2b7,Ajay Sivan,2020-06-19 07:21:52+00:00,Screenshots fix
+ba724096c9f3a1ddcf9f5fa1a89f0b4a0f1f18bf,Ajay Sivan,2020-06-19 07:17:55+00:00,Screenshots added
+51f523855b5b7b70c73bbf03b924b345bbc594bd,Ajay Sivan,2020-06-08 05:11:54+00:00,Examples updated to v0.1.2
+2c4d5f8beb48bb76028a284a26a25e9e61dbff39,Ajay Sivan,2020-06-08 04:56:56+00:00,Version 0.1.2
+fec0d2b548ba6b5c2a1d63105aa97090359560bd,Ajay Sivan,2020-06-07 19:53:06+00:00,MinSDK downgraded to 19
+48e5456b744b9a96026f94c822029ff67f359834,Ajay Sivan,2020-05-28 08:04:58+00:00,Examples updated to latest version
+95abf38657c6d4a64097e623cc5559aa8a76f691,Ajay Sivan,2020-05-28 07:32:38+00:00,Possible fix for API 21 crashes-2
+5232be29650660223c20e708e8348507969176a4,Ajay Sivan,2020-05-28 05:22:48+00:00,Possible fix for API 21 crashes
+31f32581fb8f7b9e24ce0bf59b3d275971d30079,Ajay Sivan,2020-02-28 12:55:37+00:00,Example app config fix
+310e4be9c89913f86362f550d258576f2bcf3e7b,Ajay Sivan,2020-02-28 10:50:15+00:00,Example movie app
+4d3ab9d8a6333d42ea1fb8c286e64e74d0d46e8e,Ajay Sivan,2020-02-21 14:20:50+00:00,Readme update
+2a4a91164fe0a2dcb7d61067179ad8388886ad32,Ajay Sivan,2020-02-21 14:19:36+00:00,Using library from jcenter in sample app
+6d230a7fbdf17505d9a75dae04c0db91e37fb745,Ajay Sivan,2020-02-21 14:10:35+00:00,Merge branch 'master' of https://github.com/surveysparrow/surveysparrow-android-sdk
+588ba68be7db51f5fc55547f57172d3ca5036141,Ajay Sivan,2020-02-21 14:09:58+00:00,Version 0.1.0
+9e6e2e82a6e503baf5eef03c7205fcebed02fd3b,SurveySparrow Admin,2020-02-21 06:01:52+00:00,Update README.md
+7d5ee694f07cecf5588323f04702ebc96bdb0b3f,Ajay Sivan,2020-02-20 10:42:29+00:00,Updated readme
+12c451bd0b303944e3b7f85c4d5bbb53bd8e90fb,Ajay Sivan,2020-02-10 09:02:39+00:00,Doc fix
+7258fd4f2533321ec6b1fe89d766995b6447939c,Ajay Sivan,2020-02-10 08:59:31+00:00,Minor updates
+9321bf602111c77c3f083cd6c07c6e44b6f34858,Ajay Sivan,2020-02-10 07:41:26+00:00,Doc completed
+0cc578d1238408d1609c7568c7b26a8a7264baee,Ajay Sivan,2020-02-07 07:25:38+00:00,toJSON function code doc added
+8af9a6e49c7cce60a10176aeadf7c160735d7c75,Ajay Sivan,2020-02-07 07:20:10+00:00,toJSON function added
+a6865620ee304f81e8a33a39932730e0cf3ae87c,Ajay Sivan,2020-02-07 07:19:29+00:00,Sample project update
+41714bf5fd7d978c3bb6f4cdec008c12538e5cf1,Ajay Sivan,2020-02-07 06:57:02+00:00,Sample project update
+6879a8a88a1f9da43a83d2e28f14b2ce8118ff5f,Ajay Sivan,2020-02-07 06:19:07+00:00,Basic sample project completed
+f186c8ed4690ebe4c2529dc1b7eb80d360ffe87c,Ajay Sivan,2020-02-06 10:34:00+00:00,Simple example project layout created
+6bef3f02602141f1c12f8c411daabaa1a0fac6d2,Ajay Sivan,2020-02-06 10:19:34+00:00,Created simple sample project
+d33390d9b347fe69864b8606c15cf635900be221,Ajay Sivan,2020-02-06 10:09:25+00:00,App module converted to library module
+96af752cf725eebdb2ef64778fccc18b44972d43,Ajay Sivan,2020-02-03 10:32:54+00:00,Removed logs
+537b317ffc39bedf60d441bed2f68df8510ab60d,Ajay Sivan,2020-02-03 08:33:57+00:00,Added method to clear schedule
+ddbe2ce4892f8fce54e1e7840e1bb02cb32bb1f0,Ajay Sivan,2020-02-02 17:26:48+00:00,Full public doc
+2b30955ce88f9da61744c68ad1be1ac56a3b0964,Ajay Sivan,2020-02-02 17:05:56+00:00,Survey submission storage added
+87a65d25799bfdfbd181990509953a868f231311,Ajay Sivan,2020-02-02 16:33:42+00:00,All class moved to root package
+9346beb5532b6fff103b9cd86949cc89b722859f,Ajay Sivan,2020-02-02 16:13:42+00:00,Network check method moved to SurveySparrow class;
+e25845fcc88daa70e08ba3c81f90a9bf832e5dc3,Ajay Sivan,2020-02-02 16:08:00+00:00,Typo fix
+30773cb26c3f3c070148138097e2e4374d9576dd,Ajay Sivan,2020-02-02 16:05:45+00:00,Schedule Survey bug fix & SurveySparrow class docs
+112d12551685d36c05d55b6468c43cffd341f224,Ajay Sivan,2020-02-02 10:27:37+00:00,View loading progress bar added
+593907e39e0f1b80dbdebfd569148f6b717e4cd2,Ajay Sivan,2020-02-02 06:26:09+00:00,Thankyou page redirect behaviour
+e0f2ebe204f87c4b81b8ea91dc83a9c5e2afd011,Ajay Sivan,2020-02-02 05:49:15+00:00,Thankyou page time out feature added
+351bcd3a9bcdf99b3a763f81f8b8bbe06a5f8536,Ajay Sivan,2020-02-02 04:57:35+00:00,Prompt scheduling added
+e2410f3a1292731ac9081f3f7507c8dbfcad2e12,Ajay Sivan,2020-01-31 12:31:20+00:00,Custom param support
+0db94ee2d277bb973a73535a71cda684b38f1fb6,Ajay Sivan,2020-01-31 12:30:14+00:00,Custom param support
+ef46faae50a20e216a0de77baefe6c17b492a7e9,Ajay Sivan,2020-01-30 08:51:43+00:00,Access modifier updates
+89d73b6f812a4dfa0e90e2603ceb54b272c2e659,Ajay Sivan,2020-01-30 07:32:30+00:00,Activity config option added
+a7f70ed71995e953f2173dc382665646563e7a15,Ajay Sivan,2020-01-30 05:31:35+00:00,Survey cancellation handler added
+6c41367be405c54428f42e53c01b8a5f07f5f71a,Ajay Sivan,2020-01-30 05:24:40+00:00,Network check improvements
+e92ac697e860697f78ac15be2d67099791639fde,Ajay Sivan,2020-01-30 05:20:16+00:00,SsSurveyActivity & SsSurveyFragment modified to accept SsSurvey Object
+ff8d1b4a53e2decebcfb384e491bfb008d236c3b,Ajay Sivan,2020-01-29 12:20:49+00:00,Basic data flow events added
+a74a16e2c547bcbb2a29c9e79d6c3f3e6ab7ab0b,Ajay Sivan,2020-01-29 06:59:13+00:00,Network check added
+7b7558a0b4423a470506753186c1fa8206f2f877,Ajay Sivan,2020-01-29 06:24:00+00:00,Activity and fragment added with basic function
+800a3545f8b7db2ae6473141c60c201b1b4d21d1,Ajay Sivan,2020-01-28 06:34:34+00:00,Project init

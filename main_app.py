@@ -1,11 +1,14 @@
+import pickle
 import streamlit as st
 from dev_performance_dashboard.data_collection.github_api import fetch_and_display_data
-from dev_performance_dashboard.metrics.temp import calculate_and_save_metrics
+from dev_performance_dashboard.metrics.calculations import calculate_and_save_metrics
 from dev_performance_dashboard.visualization.charts import visu
-# Uncomment and fix this import based on actual implementation
-# from dev_performance_dashboard.nl_query_module.nl_query_module import main as query_main
+from dev_performance_dashboard.query_interface.query_temp import natural_language_query_module
 
-st.title("Developer Performance Analytics Dashboard")
+
+
+
+st.title("AI-Powered Developer Performance Analytics Dashboard")
 
 # Navigation menu
 st.sidebar.title("Navigation")
@@ -34,7 +37,7 @@ elif selection == "Metrics Calculation":
         
         st.subheader("Commit Frequency")
         st.metric(label='Average Commits per Day', value=f"{metrics['Commit Frequency (average commits/day)']:.2f}")
-
+        
         st.subheader("Total Commits")
         st.metric(label='Total Commits', value=f"{metrics['Total Commits']}")
 
@@ -58,9 +61,19 @@ elif selection == "Metrics Calculation":
 
 elif selection == "Performance Metrics Visualization":
     st.header("Performance Metrics Visualization")
-    visu()  # Call the visualization function to load and display metrics
+    pickle_file_path = 'dev_performance_dashboard/metrics/metrics.pkl'
+    visu() 
+    
 
 elif selection == "Natural Language Query":
     st.header("Natural Language Query")
-    # Uncomment and fix this based on actual implementation
-    # query_main()
+    metrics_path = 'dev_performance_dashboard/metrics/metrics.pkl'  # Adjust path to your metrics file
+    try:
+        with open(metrics_path, 'rb') as file:
+            metrics = pickle.load(file)
+        natural_language_query_module(metrics)
+    except FileNotFoundError:
+        st.error(f"File not found: {metrics_path}")
+    except Exception as e:
+        st.error(f"An error occurred: {str(e)}")
+

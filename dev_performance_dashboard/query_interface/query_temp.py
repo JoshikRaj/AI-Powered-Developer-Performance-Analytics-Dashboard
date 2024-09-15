@@ -7,8 +7,6 @@ import pandas as pd
 cohere_api_key = 'ngcsi3x9Yf5delGbRpFwhYrLsR1A2FN7SeQEsYkK'
 cohere_client = cohere.Client(cohere_api_key)
 
-
-
 # Define the function to interact with the Cohere API
 def query_cohere_api(user_query):
     try:

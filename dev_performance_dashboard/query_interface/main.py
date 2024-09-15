@@ -10,7 +10,7 @@ from file_processing import clone_github_repo, load_and_index_files
 from questions import ask_question, QuestionContext
 
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+OPENAI_API_KEY = os.getenv("sk-xkvHi3dyz5ZIW5QIetQn4TXCHKiWk7w6-qYaO6R25qT3BlbkFJNYtebr9rDPfIvjyMZpFIooeYt-LFVAgx1G8xMK9Y0A")
 
 def main():
     github_url = input("Enter the GitHub URL of the repository: ")

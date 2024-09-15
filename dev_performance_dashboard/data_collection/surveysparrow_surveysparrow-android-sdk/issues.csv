@@ -1,5 +1,0 @@
-id,title,created_at,closed_at,state
-2043243635,Experiencing ANRs since v0.4.6,2023-12-15 09:11:03+00:00,,open
-1787935453,Processing each survey response,2023-07-04 13:26:53+00:00,,open
-1738392208,Provide more API than just the activity,2023-06-02 15:17:51+00:00,,open
-1377460249,Fatal Exception: java.lang.NullPointerException in surveysparrow-android-sdk:0.4.2,2022-09-19 06:21:52+00:00,2022-10-03 07:38:29+00:00,closed
